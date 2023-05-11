@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1MD18312</string>
+    <string name="content">Android - Thành phần ứng dụng:\n\n                           1.Hoạt động\n\n                           2.Dịch vụ\n\n                           3. nhà cung cấp nội dung\n\n                           4.BroadcasNhận</string>
+</resources>
